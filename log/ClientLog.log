@@ -1,0 +1,1063 @@
+2019-01-23 19:03:11,708 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 19:03:11,708 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 19:03:11,715 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 19:03:32,926 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 19:03:32,926 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 19:03:32,934 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 19:03:41,986 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 19:03:41,986 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 19:03:41,993 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 19:03:47,809 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-23 19:03:47,831 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 19:03:47,894 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-01-23 19:04:10,038 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-23 19:04:10,050 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 19:04:10,089 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ss
+2019-01-23 19:04:19,070 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-23 19:04:19,087 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-01-23 19:04:35,649 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: dd
+2019-01-23 19:04:35,650 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-01-23 19:04:42,597 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ff
+2019-01-23 19:04:42,599 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 19:04:42,627 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ff
+2019-01-23 19:04:46,054 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 19:04:46,056 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 19:04:46,073 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 19:04:46,074 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 19:04:46,109 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ff elo:59
+2019-01-23 19:04:46,119 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:99
+2019-01-23 19:04:50,046 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:04:50,069 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 19:04:51,097 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:04:51,098 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 19:04:52,067 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:04:52,078 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 19:04:54,142 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:04:54,168 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 19:04:54,678 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:04:54,680 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 19:04:58,826 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:04:58,834 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 19:05:00,033 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:05:00,034 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 19:05:00,816 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:05:03,387 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:05:03,389 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 19:05:05,171 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:05:05,173 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 19:05:06,152 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:05:06,153 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 19:05:07,128 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-01-23 19:05:07,133 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 98
+2019-01-23 19:05:07,133 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 60
+2019-01-23 19:05:07,151 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:05:07,153 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:05:07,153 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 19:05:22,393 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 19:05:22,393 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 19:05:22,394 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 19:05:22,395 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 19:05:22,415 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:98
+2019-01-23 19:05:22,429 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ff elo:60
+2019-01-23 19:05:24,854 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:05:27,712 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:05:29,978 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:06:05,430 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 19:06:05,428 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 19:06:05,451 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 19:06:10,611 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 19:06:10,615 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 19:06:10,617 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 19:06:14,512 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-23 19:06:14,525 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-01-23 19:06:17,934 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-23 19:06:17,936 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-01-23 19:06:22,648 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ff
+2019-01-23 19:06:22,649 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-01-23 19:07:11,073 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: 
+2019-01-23 19:07:14,071 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-23 19:07:14,074 ERROR N.S.CommandStartCommunationWithServer [Thread-0] Nepodarilo se odeslat java.net.SocketException: Broken pipe (Write failed)
+2019-01-23 19:07:37,500 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 19:07:37,505 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 19:07:37,507 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 19:07:42,336 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 19:07:42,336 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 19:07:42,345 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 19:07:46,968 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 19:07:46,967 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 19:07:46,981 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 19:07:50,879 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-23 19:07:50,903 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 19:07:50,945 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-01-23 19:07:54,037 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-23 19:07:54,052 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 19:07:54,087 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ss
+2019-01-23 19:08:07,569 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: dd
+2019-01-23 19:08:07,582 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-01-23 19:08:13,794 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ff
+2019-01-23 19:08:13,796 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 19:08:13,823 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ff
+2019-01-23 19:08:15,128 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 19:08:15,129 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 19:08:15,130 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 19:08:15,130 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 19:08:15,210 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ff elo:60
+2019-01-23 19:08:15,243 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:98
+2019-01-23 19:08:49,687 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:08:49,714 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 19:08:51,958 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:08:56,009 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:08:56,010 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 19:08:57,688 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:08:57,728 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 19:08:58,852 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 19:08:58,853 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 19:09:00,266 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 20:16:41,581 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 20:16:41,581 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 20:16:41,593 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 20:16:49,798 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 20:16:49,798 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 20:16:49,816 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 20:16:55,848 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 20:16:55,859 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 20:16:55,875 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 20:16:56,085 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: a
+2019-01-23 20:16:56,107 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-01-23 20:17:00,701 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-23 20:17:00,747 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 20:17:00,840 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-01-23 20:17:05,376 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-23 20:17:05,378 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 20:17:05,421 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ss
+2019-01-23 20:17:11,266 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ff
+2019-01-23 20:17:11,286 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 20:17:11,342 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ff
+2019-01-23 20:17:16,296 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: aaa
+2019-01-23 20:17:16,307 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ss: aaa
+2019-01-23 20:17:16,313 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ss: aaa
+2019-01-23 20:17:16,317 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ss: aaa
+2019-01-23 21:09:33,133 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:09:33,136 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:09:33,163 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:09:34,333 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:09:34,335 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:09:34,335 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:09:38,034 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-23 21:09:38,061 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:09:38,121 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-01-23 21:09:42,161 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-23 21:09:42,174 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:09:42,216 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ss
+2019-01-23 21:10:09,273 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: aa
+2019-01-23 21:10:09,281 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ss: aa
+2019-01-23 21:10:09,285 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ss: aa
+2019-01-23 21:15:04,252 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:15:04,268 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:15:04,271 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:15:10,675 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:15:10,684 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:15:10,675 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:15:14,179 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-23 21:15:14,205 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:15:14,270 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-01-23 21:15:23,736 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-23 21:15:23,747 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:15:23,780 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ss
+2019-01-23 21:15:49,483 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 21:15:49,483 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 21:17:48,588 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:17:48,590 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:17:48,598 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:17:54,064 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:17:54,068 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:17:54,073 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:17:58,824 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-23 21:17:58,845 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:17:58,902 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-01-23 21:18:02,656 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-23 21:18:02,664 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:18:02,693 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ss
+2019-01-23 21:19:41,893 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 21:19:41,894 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 21:20:10,412 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:20:10,429 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:20:10,445 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:20:10,976 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:20:10,980 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:20:10,980 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:20:14,838 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-23 21:20:14,861 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:20:14,918 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-01-23 21:20:16,924 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-23 21:20:16,937 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:20:16,969 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ss
+2019-01-23 21:20:19,301 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 21:20:19,302 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 21:20:19,305 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 21:20:19,306 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 21:20:19,358 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ss elo:101
+2019-01-23 21:20:19,373 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:98
+2019-01-23 21:20:23,418 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:20:24,207 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:20:52,368 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 21:20:52,368 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 21:23:37,629 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:23:37,637 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:23:37,640 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:23:41,599 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:23:41,599 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:23:41,602 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:23:46,720 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-23 21:23:46,750 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:23:46,788 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-01-23 21:23:50,692 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-23 21:23:50,705 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:23:50,742 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ss
+2019-01-23 21:23:52,784 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 21:23:52,785 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 21:23:52,788 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 21:23:52,789 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 21:23:52,830 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:98
+2019-01-23 21:23:52,855 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ss elo:101
+2019-01-23 21:24:07,013 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:24:24,736 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 21:24:24,736 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 21:24:57,758 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:24:57,758 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:24:57,770 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:25:01,707 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:25:01,709 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:25:01,722 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:25:04,542 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-23 21:25:04,568 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:25:04,614 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-01-23 21:25:08,651 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-23 21:25:08,666 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:25:08,710 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ss
+2019-01-23 21:25:09,990 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 21:25:09,992 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 21:25:09,996 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 21:25:09,998 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 21:25:10,065 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:98
+2019-01-23 21:25:10,081 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ss elo:101
+2019-01-23 21:25:14,152 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:25:14,180 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:25:16,263 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:25:16,264 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:25:23,647 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:25:23,649 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 21:25:25,246 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:25:25,267 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:25:26,054 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:25:26,055 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:25:27,600 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-01-23 21:25:34,853 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:25:35,564 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:25:36,393 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:27:01,995 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 21:27:01,995 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 21:29:04,708 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:29:04,727 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:29:04,756 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:29:07,215 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:29:07,229 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:29:07,235 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:29:09,823 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:29:09,823 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:29:09,838 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:29:11,429 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-23 21:29:11,453 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:29:11,534 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ss
+2019-01-23 21:29:14,056 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-23 21:29:14,070 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:29:14,134 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-01-23 21:29:21,470 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ff
+2019-01-23 21:29:21,479 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:29:21,514 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ff
+2019-01-23 21:29:22,637 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 21:29:22,638 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 21:29:22,642 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 21:29:22,643 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 21:29:22,719 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ff elo:60
+2019-01-23 21:29:22,732 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:98
+2019-01-23 21:29:25,801 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:29:25,830 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:29:26,569 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:29:26,570 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:29:27,395 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:29:27,397 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 21:29:28,933 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:29:28,954 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:29:29,632 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:29:29,633 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:29:30,892 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:29:30,898 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 21:29:32,635 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:29:32,638 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:29:33,808 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:29:33,809 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:29:34,660 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-01-23 21:29:37,118 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:29:37,686 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:29:38,600 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:30:06,038 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 21:30:06,038 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 21:30:06,038 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 21:41:55,966 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:41:55,972 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:41:55,980 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:42:02,205 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:42:02,209 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:42:02,210 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:42:07,612 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-23 21:42:07,636 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:42:07,725 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-01-23 21:42:10,623 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-23 21:42:10,636 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:42:10,667 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ss
+2019-01-23 21:42:11,967 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 21:42:11,969 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 21:42:11,973 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 21:42:11,974 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 21:42:12,021 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:98
+2019-01-23 21:42:12,064 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ss elo:101
+2019-01-23 21:42:21,233 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:42:21,264 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:42:24,191 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:42:24,193 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:42:25,972 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:42:25,973 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 21:42:27,742 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:42:27,767 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:42:28,445 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:42:28,446 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:42:29,340 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:42:29,347 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 21:42:30,590 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:42:30,592 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:42:31,127 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:42:31,129 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:42:32,315 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-01-23 21:42:32,319 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 102
+2019-01-23 21:42:32,337 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:42:32,338 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:43:31,642 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 21:43:31,642 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 21:49:19,176 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:49:19,179 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:49:19,180 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:49:25,443 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:49:25,462 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:49:25,448 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:49:27,560 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:49:27,564 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:49:27,567 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:49:30,757 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ff
+2019-01-23 21:49:30,781 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:49:30,874 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ff
+2019-01-23 21:49:33,008 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-23 21:49:33,021 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:49:33,063 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-01-23 21:49:39,939 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-23 21:49:39,954 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:49:40,000 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ss
+2019-01-23 21:49:42,396 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 21:49:42,398 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 21:49:42,398 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 21:49:42,399 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 21:49:42,485 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ss elo:102
+2019-01-23 21:49:42,496 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:97
+2019-01-23 21:49:45,129 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:49:45,156 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:49:45,840 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:49:45,841 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:49:47,447 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:49:47,453 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 21:49:48,651 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:49:48,668 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:49:49,296 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:49:49,297 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:49:50,854 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:49:50,860 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 21:49:52,335 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:49:52,337 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:49:52,878 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:49:52,880 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:49:53,601 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:49:53,606 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 21:49:54,501 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:49:54,502 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:49:55,289 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:49:55,290 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:49:56,198 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:49:56,200 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 21:49:56,954 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:49:56,955 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:49:57,854 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:49:57,855 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:49:58,742 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:49:58,742 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-01-23 21:49:58,743 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:50:01,658 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:50:02,126 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:50:02,717 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:50:17,598 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 21:50:17,598 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 21:50:17,599 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 21:51:29,633 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:51:29,644 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:51:29,651 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:51:32,163 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:51:32,168 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:51:32,178 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:51:33,619 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:51:33,620 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:51:33,624 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:51:38,712 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-23 21:51:38,742 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:51:38,823 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-01-23 21:51:41,801 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-23 21:51:41,812 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:51:41,853 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ss
+2019-01-23 21:51:45,738 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ff
+2019-01-23 21:51:45,751 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:51:45,782 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ff
+2019-01-23 21:51:48,593 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 21:51:48,595 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 21:51:48,596 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 21:51:48,596 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 21:51:48,651 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ss elo:102
+2019-01-23 21:51:48,685 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ff elo:60
+2019-01-23 21:51:51,635 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:51:51,666 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:51:52,206 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:51:52,207 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:51:53,106 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:51:53,108 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 21:51:54,015 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:51:54,031 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:51:54,537 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:51:54,538 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:51:55,736 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:51:55,738 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 21:51:56,595 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:51:56,596 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:51:57,111 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:51:57,112 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:51:57,734 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:51:57,737 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 21:51:58,341 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:51:58,343 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:51:59,183 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:51:59,185 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:51:59,836 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-01-23 21:51:59,837 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-01-23 21:51:59,839 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 61
+2019-01-23 21:51:59,841 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 101
+2019-01-23 21:51:59,861 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:51:59,877 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:52:52,850 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 21:52:52,850 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 21:54:32,650 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:54:32,673 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:54:32,661 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:54:33,926 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:54:33,927 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:54:33,932 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:54:36,988 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-23 21:54:37,013 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:54:37,045 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-01-23 21:54:39,974 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-23 21:54:39,984 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:54:40,043 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ss
+2019-01-23 21:54:43,278 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 21:54:43,279 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 21:54:43,288 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 21:54:43,289 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 21:54:43,313 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:97
+2019-01-23 21:54:43,354 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ss elo:101
+2019-01-23 21:54:45,501 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:54:45,531 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:54:46,243 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:54:46,244 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:54:48,226 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:54:48,227 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 21:54:50,263 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:54:50,282 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:54:50,762 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:54:50,767 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:54:51,339 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:54:51,344 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 21:54:52,073 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:54:52,074 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:54:52,534 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:54:52,535 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:54:56,162 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-01-23 21:54:56,163 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-01-23 21:54:56,165 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 102
+2019-01-23 21:54:56,166 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 96
+2019-01-23 21:54:56,185 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:54:56,185 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:56:10,994 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:56:10,991 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:56:10,997 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:56:18,029 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:56:18,029 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:56:18,040 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:56:22,990 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-23 21:56:23,015 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:56:23,054 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-01-23 21:56:24,945 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-23 21:56:24,958 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:56:25,001 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ss
+2019-01-23 21:56:27,589 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 21:56:27,590 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 21:56:27,592 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 21:56:27,593 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 21:56:27,637 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ss elo:103
+2019-01-23 21:56:27,638 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:95
+2019-01-23 21:56:31,228 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:56:31,257 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:56:31,944 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:56:31,945 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:56:32,759 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:56:32,761 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 21:56:34,100 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:56:34,124 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:56:34,636 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:56:34,637 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:56:35,504 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:56:35,507 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 21:56:36,564 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:56:36,566 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:56:37,121 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:56:37,123 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:56:38,019 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:56:38,022 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 21:56:39,050 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:56:39,052 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:56:41,201 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:56:41,203 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:56:42,282 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-01-23 21:56:42,285 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 96
+2019-01-23 21:56:42,289 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 102
+2019-01-23 21:56:42,317 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:56:42,320 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:57:49,661 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 21:57:49,667 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 21:57:49,671 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 21:57:52,453 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ff
+2019-01-23 21:57:52,463 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 21:57:52,499 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ff
+2019-01-23 21:58:01,011 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: aa
+2019-01-23 21:58:01,018 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ff: aa
+2019-01-23 21:58:05,862 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: ss
+2019-01-23 21:58:05,864 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ss: ss
+2019-01-23 21:58:09,074 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: ddd
+2019-01-23 21:58:09,076 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: aa: ddd
+2019-01-23 21:58:23,741 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 21:58:23,742 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 21:58:23,742 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 21:58:23,743 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 21:58:23,756 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ff elo:61
+2019-01-23 21:58:23,788 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ss elo:102
+2019-01-23 21:58:26,530 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:58:26,532 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:58:26,887 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:58:26,889 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:58:27,957 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:58:27,958 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 21:58:29,239 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:58:29,255 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:58:29,851 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:58:29,852 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:58:30,656 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:58:30,657 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 21:58:32,109 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:58:32,110 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:58:33,366 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:58:33,367 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 21:58:34,251 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-01-23 21:58:34,254 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 60
+2019-01-23 21:58:34,254 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 103
+2019-01-23 21:58:34,269 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:58:34,272 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 21:58:39,176 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: aa
+2019-01-23 22:09:30,168 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 22:09:30,168 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 22:09:30,172 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 22:09:36,963 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 22:09:36,964 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 22:09:36,985 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 22:09:40,847 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 22:09:40,850 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 22:09:40,858 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 22:09:46,802 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-23 22:09:46,829 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 22:09:46,872 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-01-23 22:09:48,817 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-23 22:09:48,831 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 22:09:48,889 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ss
+2019-01-23 22:09:51,160 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ff
+2019-01-23 22:09:51,172 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 22:09:51,202 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ff
+2019-01-23 22:09:57,427 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: aa
+2019-01-23 22:09:57,438 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ff: aa
+2019-01-23 22:09:57,439 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ff: aa
+2019-01-23 22:09:57,439 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ff: aa
+2019-01-23 22:10:00,084 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 22:10:00,084 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 22:10:00,085 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 22:10:00,086 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 22:10:00,147 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:96
+2019-01-23 22:10:00,212 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ss elo:103
+2019-01-23 22:10:02,509 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:10:02,546 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:10:03,163 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:10:03,165 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:10:04,625 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:10:04,627 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 22:10:06,300 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:10:06,324 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:10:06,767 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:10:06,769 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:10:07,623 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:10:07,627 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 22:10:08,535 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:10:08,537 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:10:09,146 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:10:09,148 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:10:09,828 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:10:09,833 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 22:10:10,538 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:10:10,540 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:10:11,362 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:10:11,364 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:10:13,295 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:10:13,296 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 22:10:14,021 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:10:14,023 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:10:17,666 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:10:17,668 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:10:18,719 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-01-23 22:10:18,723 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 104
+2019-01-23 22:10:18,724 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 95
+2019-01-23 22:10:18,752 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:10:18,755 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:10:23,230 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: aa
+2019-01-23 22:10:23,232 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: aa: aa
+2019-01-23 22:10:23,232 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: aa: aa
+2019-01-23 22:10:23,233 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: aa: aa
+2019-01-23 22:10:47,856 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 22:10:47,856 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 22:34:16,066 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 22:34:16,093 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 22:34:16,112 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 22:34:18,270 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 22:34:18,271 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 22:34:18,278 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 22:34:19,309 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-23 22:34:19,312 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-23 22:34:19,323 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-23 22:34:26,352 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-23 22:34:26,373 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 22:34:26,412 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-01-23 22:34:30,705 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-23 22:34:30,717 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 22:34:30,743 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ss
+2019-01-23 22:34:35,819 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ff
+2019-01-23 22:34:35,831 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-23 22:34:35,870 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ff
+2019-01-23 22:34:42,322 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: ahoj
+2019-01-23 22:34:42,332 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ss: ahoj
+2019-01-23 22:34:42,333 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ss: ahoj
+2019-01-23 22:34:42,334 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ss: ahoj
+2019-01-23 22:34:45,999 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 22:34:45,999 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-23 22:34:46,000 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 22:34:46,000 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-23 22:34:46,050 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:95
+2019-01-23 22:34:46,102 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ss elo:104
+2019-01-23 22:34:51,817 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:34:51,856 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:34:52,234 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:34:52,235 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:34:53,341 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:34:53,344 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 22:34:54,317 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:34:54,338 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:34:54,772 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:34:54,773 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:34:55,661 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:34:55,666 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 22:34:56,399 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:34:56,401 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:34:56,920 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:34:56,921 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:34:57,656 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:34:57,660 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 22:34:58,369 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:34:58,370 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:34:58,857 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:34:58,859 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:34:59,906 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:34:59,907 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 22:35:00,547 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:35:00,548 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:35:01,603 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:35:01,604 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:35:02,257 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:35:02,258 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-23 22:35:02,916 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:35:02,917 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:35:05,265 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:35:05,267 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-23 22:35:07,097 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-01-23 22:35:07,100 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 96
+2019-01-23 22:35:07,101 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 103
+2019-01-23 22:35:07,125 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:35:07,136 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-23 22:35:17,477 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: aaa
+2019-01-23 22:35:17,478 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ss: aaa
+2019-01-23 22:35:17,478 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ss: aaa
+2019-01-23 22:35:17,479 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ss: aaa
+2019-01-23 22:35:33,264 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-23 22:35:33,264 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-24 01:14:33,582 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-24 01:14:33,587 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-24 01:14:33,610 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-24 01:14:35,579 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-24 01:14:35,586 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-24 01:14:35,607 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-24 01:14:36,414 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-24 01:14:36,420 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-24 01:14:36,425 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-24 01:15:04,537 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-24 01:15:04,559 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-24 01:15:04,636 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-01-24 01:15:13,037 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ff
+2019-01-24 01:15:13,051 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-24 01:15:13,082 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ff
+2019-01-24 01:15:20,974 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-24 01:15:20,985 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-24 01:15:21,014 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ss
+2019-01-24 01:15:51,715 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: ggggg
+2019-01-24 01:15:51,723 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ss: ggggg
+2019-01-24 01:15:51,728 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ss: ggggg
+2019-01-24 01:15:51,739 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ss: ggggg
+2019-01-24 01:16:00,484 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-24 01:16:00,485 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-24 01:16:00,487 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-24 01:16:00,488 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-24 01:16:00,526 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:96
+2019-01-24 01:16:00,569 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ss elo:103
+2019-01-24 01:16:07,692 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:07,727 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 01:16:09,125 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:09,127 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 01:16:11,734 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:11,735 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-24 01:16:13,368 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:13,387 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 01:16:14,066 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:14,067 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 01:16:16,093 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:16,102 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-24 01:16:17,199 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:17,200 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 01:16:18,646 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:18,648 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 01:16:22,709 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-01-24 01:16:22,713 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 104
+2019-01-24 01:16:22,714 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 95
+2019-01-24 01:16:22,735 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:22,735 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:36,791 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-24 01:16:36,791 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-24 01:16:36,792 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-24 01:16:36,792 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-24 01:16:36,808 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ff elo:60
+2019-01-24 01:16:36,826 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:95
+2019-01-24 01:16:41,012 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:41,015 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 01:16:41,875 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:41,877 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 01:16:43,093 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:43,095 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-24 01:16:44,297 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:44,322 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 01:16:44,987 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:44,988 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 01:16:46,126 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:46,128 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-24 01:16:47,968 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:47,970 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 01:16:49,272 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:49,274 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 01:16:50,295 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:50,299 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-24 01:16:51,571 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:51,572 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 01:16:52,457 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:52,458 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 01:16:53,234 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:53,236 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-24 01:16:54,640 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:54,643 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 01:16:56,072 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:56,074 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 01:16:58,320 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-01-24 01:16:58,321 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 96
+2019-01-24 01:16:58,323 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 59
+2019-01-24 01:16:58,343 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:16:58,350 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 01:17:09,756 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-24 01:17:09,756 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-24 01:17:09,756 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-24 08:27:42,359 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-24 08:27:42,367 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-24 08:27:42,399 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-24 08:27:43,297 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-24 08:27:43,317 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-24 08:27:43,353 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-24 08:27:44,037 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-24 08:27:44,037 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-24 08:27:44,051 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-24 08:27:51,929 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-24 08:27:51,986 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-24 08:27:52,114 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ss
+2019-01-24 08:27:59,467 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-24 08:27:59,492 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-24 08:27:59,561 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-01-24 08:28:08,216 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ff
+2019-01-24 08:28:08,243 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-24 08:28:08,307 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ff
+2019-01-24 08:28:10,897 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-24 08:28:10,898 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-24 08:28:10,900 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-24 08:28:10,901 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-24 08:28:11,023 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ff elo:59
+2019-01-24 08:28:11,038 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:96
+2019-01-24 08:28:16,721 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:28:16,775 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 08:28:17,583 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:28:17,585 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 08:28:19,200 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:28:19,203 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-24 08:28:20,587 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:28:20,617 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 08:28:21,365 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:28:21,367 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 08:28:23,204 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:28:23,214 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-24 08:28:24,748 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:28:24,750 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 08:28:25,735 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:28:25,738 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 08:28:26,543 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:28:26,548 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-24 08:28:27,673 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:28:27,675 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 08:28:28,942 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:28:28,945 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 08:28:29,763 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:28:29,765 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-24 08:28:31,426 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:28:31,428 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 08:28:32,283 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:28:32,285 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 08:28:35,343 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-01-24 08:28:35,347 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 97
+2019-01-24 08:28:35,351 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 58
+2019-01-24 08:28:35,410 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:28:35,419 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:28:43,099 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: ssdddsad
+2019-01-24 08:28:43,115 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ff: ssdddsad
+2019-01-24 08:28:43,116 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ff: ssdddsad
+2019-01-24 08:28:43,116 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ff: ssdddsad
+2019-01-24 08:28:48,199 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-24 08:28:48,199 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-24 08:28:48,200 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-24 08:28:48,200 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-24 08:28:48,241 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ss elo:104
+2019-01-24 08:28:48,248 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ff elo:58
+2019-01-24 08:29:02,410 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:29:02,442 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 08:29:03,765 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:29:03,767 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 08:29:05,310 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:29:05,313 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-24 08:29:06,587 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:29:06,589 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 08:29:07,667 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:29:07,669 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 08:29:08,404 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:29:08,407 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-24 08:29:09,930 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:29:09,933 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 08:29:10,988 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:29:10,990 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 08:29:11,840 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:29:11,842 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-24 08:29:13,379 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:29:13,381 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 08:29:14,619 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:29:14,620 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 08:29:15,425 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:29:15,427 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-24 08:29:16,895 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:29:16,897 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 08:29:18,933 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:29:18,936 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 08:29:21,210 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-01-24 08:29:21,213 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 105
+2019-01-24 08:29:21,214 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 57
+2019-01-24 08:29:21,247 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:29:21,249 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 08:29:46,199 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-24 08:29:46,199 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-24 08:29:46,199 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-24 10:06:38,185 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-24 10:06:38,185 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-24 10:06:38,223 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-24 10:06:41,097 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-24 10:06:41,100 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-24 10:06:41,107 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-24 10:07:28,926 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-24 10:07:28,926 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-24 10:07:52,904 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-24 10:07:52,916 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-24 10:07:52,937 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-24 10:08:04,516 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-24 10:08:04,525 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-24 10:08:04,523 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-24 10:10:53,366 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-24 10:10:53,380 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-24 10:10:53,380 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-24 10:10:58,837 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-24 10:10:58,841 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-24 10:10:58,843 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-24 10:11:05,764 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-01-24 10:11:05,765 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-01-24 10:11:05,780 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-01-24 10:11:22,952 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-01-24 10:11:23,001 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-24 10:11:23,076 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-01-24 10:11:28,937 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ss
+2019-01-24 10:11:28,954 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-24 10:11:29,004 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ss
+2019-01-24 10:11:39,035 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ff
+2019-01-24 10:11:39,063 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-01-24 10:11:39,119 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ff
+2019-01-24 10:23:14,106 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: jjjj
+2019-01-24 10:23:14,122 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ff: jjjj
+2019-01-24 10:23:14,124 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ff: jjjj
+2019-01-24 10:23:14,140 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ff: jjjj
+2019-01-24 10:28:05,196 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: ggg
+2019-01-24 10:28:05,199 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ff: ggg
+2019-01-24 10:28:05,201 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ff: ggg
+2019-01-24 10:28:05,201 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: ff: ggg
+2019-01-24 10:28:10,619 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-24 10:28:10,620 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-24 10:28:10,622 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-24 10:28:10,622 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-24 10:28:10,697 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ff elo:57
+2019-01-24 10:28:10,725 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ss elo:105
+2019-01-24 10:28:15,024 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 10:28:15,078 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 10:28:17,303 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 10:28:17,306 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 10:28:19,050 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 10:28:19,053 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-01-24 10:28:20,647 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 10:28:20,684 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 10:28:21,507 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 10:28:21,509 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 10:28:28,402 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-01-24 10:28:28,403 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-01-24 10:28:28,409 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 58
+2019-01-24 10:28:28,413 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 104
+2019-01-24 10:28:28,451 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 10:28:28,474 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 10:28:43,019 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-24 10:28:43,019 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-01-24 10:28:43,019 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-24 10:28:43,020 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-01-24 10:28:43,060 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:97
+2019-01-24 10:28:43,083 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ff elo:59
+2019-01-24 10:28:46,828 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 10:28:46,860 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 10:28:50,736 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-01-24 10:28:50,740 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-01-24 10:29:39,070 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-24 10:29:39,070 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-01-24 10:29:39,070 ERROR N.R.Recive [Thread-1] Nemůžu se pripojit k serveru od Recive: java.lang.NullPointerException
+2019-02-21 15:38:37,755 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-02-21 15:38:37,772 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-02-21 15:38:37,797 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-02-21 15:38:44,742 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-02-21 15:38:44,746 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-02-21 15:38:44,748 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-02-21 15:38:54,022 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aaa
+2019-02-21 15:38:54,042 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-02-21 15:38:58,949 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-02-21 15:38:58,972 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-02-21 15:38:59,058 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-02-21 15:39:17,934 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: ff
+2019-02-21 15:39:17,961 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-02-21 15:39:18,016 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: ff
+2019-02-21 15:39:22,956 DEBUG N.S.CommandSendMsg [Thread-0] Odeslána zpráva: aaa
+2019-02-21 15:39:22,970 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: aa: aaa
+2019-02-21 15:39:22,974 DEBUG N.R.CommandRecMsg [Thread-1] Prijata zprava: aa: aaa
+2019-02-21 15:39:47,143 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-02-21 15:39:47,146 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-02-21 15:39:47,146 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-02-21 15:39:47,148 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-02-21 15:39:47,198 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ff elo:59
+2019-02-21 15:39:47,224 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:97
+2019-02-21 15:40:01,074 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-02-21 15:40:01,117 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-02-21 15:40:01,844 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-02-21 15:40:01,846 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-02-21 15:40:03,258 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-02-21 15:40:03,262 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 98
+2019-02-21 15:40:03,264 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 58
+2019-02-21 15:40:03,292 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-02-21 15:40:03,317 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-02-21 15:41:41,991 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-02-21 15:41:41,991 DEBUG L.Game [Thread-1] Pridán druhý hráč.
+2019-02-21 15:41:41,991 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-02-21 15:41:41,991 DEBUG L.Game [Thread-1] Hra se spustila.
+2019-02-21 15:41:42,012 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: aa elo:98
+2019-02-21 15:41:42,013 DEBUG N.R.CommandStartGame [Thread-1] Hra spuštěna. Protihráč: ff elo:58
+2019-02-21 15:41:45,827 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-02-21 15:41:45,835 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-02-21 15:41:46,866 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-02-21 15:41:46,868 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-02-21 15:41:47,987 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-02-21 15:41:47,989 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-02-21 15:41:49,327 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-02-21 15:41:49,330 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-02-21 15:41:50,236 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-02-21 15:41:50,238 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-02-21 15:41:51,092 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-02-21 15:41:51,095 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: true
+2019-02-21 15:41:52,039 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-02-21 15:41:52,041 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-02-21 15:41:52,840 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-02-21 15:41:52,842 DEBUG N.R.CommandReciveField [Thread-1] Přijaté data o poli s kartami: false
+2019-02-21 15:41:53,698 DEBUG N.S.CommandEndGame [Thread-0] Odesílání konce hry serveru.
+2019-02-21 15:41:53,699 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 99
+2019-02-21 15:41:53,701 DEBUG N.R.CommandUpdate [Thread-1] Update klientských informací od serveru. Nové elo: 57
+2019-02-21 15:41:53,725 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-02-21 15:41:53,729 DEBUG N.S.CommandSendField [Thread-0] Odesláno herní pole
+2019-03-28 15:31:57,293 DEBUG N.Network [main] Startuji network Thread: RECIVER
+2019-03-28 15:31:57,298 DEBUG N.R.Recive [Thread-1] Všechny příkazy uloženy pro Recive.
+2019-03-28 15:31:57,306 DEBUG N.Network [main] Startuji network Thread: SENDER
+2019-03-28 15:32:08,357 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aaa
+2019-03-28 15:32:08,380 DEBUG N.R.CommandLogin [Thread-1] Server odmítnul login.
+2019-03-28 15:32:16,562 DEBUG N.S.CommandStartCommunationWithServer [Thread-0] Snaha se přihlásit na server uživatelem: aa
+2019-03-28 15:32:16,586 DEBUG L.Game [Thread-1] Pridán lokální hráč.
+2019-03-28 15:32:16,649 DEBUG N.R.CommandLogin [Thread-1] Server příjmul login pro: aa
+2019-03-30 16:12:18,514 ERROR N.S.Send [main] Nepodařilo se připojit k serveru od SENDER: java.net.ConnectException: Connection refused (Connection refused)
